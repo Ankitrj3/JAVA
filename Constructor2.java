@@ -8,6 +8,7 @@ public class Constructor2 {
     public Constructor2(String make, String model, int year) {
         this.make = make;
         this.model = model;
+        // model
         this.year = year;
     }
 
