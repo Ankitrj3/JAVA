@@ -1,6 +1,9 @@
 
 public class Methodoverloading {
+<<<<<<< HEAD
     // method overloading
+=======
+>>>>>>> 1844ea8 (method overloading)
     public void sum(){
         System.out.println("default value : 1");
     }
