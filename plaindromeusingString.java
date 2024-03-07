@@ -4,7 +4,7 @@ public class plaindromeusingString {
          Scanner sc = new Scanner(System.in);
          String a = sc.nextLine();
 
-         StringBuilder build = new StringBuilder();
+         java.lang.StringBuilder build = new java.lang.StringBuilder();
          build.append(a);
          build.reverse();
 
