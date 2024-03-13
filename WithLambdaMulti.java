@@ -12,6 +12,11 @@ public class WithLambdaMulti {
             System.out.println("multiplication "+(x*y*z));
         };
 
+        anki rj = (g,h,j) ->{
+            System.out.println("addition "+(g+h+j));
+        };
+
         an.multiplication(a,b,c);
+        rj.multiplication(a, b, c);
     }
 }
