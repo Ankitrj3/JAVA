@@ -9,7 +9,7 @@ class first {
         a = la.nextInt();
         b = la.nextInt();
         System.out.println(a + b);
-    }
+    } 
 }
 
 class second extends first {

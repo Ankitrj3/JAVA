@@ -4,7 +4,7 @@ public class strreverse {
        Scanner ank = new Scanner(System.in);
        String a = ank.nextLine();
 
-        StringBuilder am = new StringBuilder();
+        java.lang.StringBuilder am = new java.lang.StringBuilder();
         
         am.append(a);
         am.reverse();

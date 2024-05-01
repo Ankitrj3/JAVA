@@ -6,5 +6,6 @@ public class ternaryprac {
 
         String res = (a<0) ? "Negative":"Positive";
         System.out.println(res);
+        ank.close();
     }
 }
